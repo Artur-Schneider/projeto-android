@@ -147,6 +147,7 @@ ul#seg {
 }
 
 header {
+    min-width: 410px;
     color: whitesmoke;
     background-image: linear-gradient(to top, #334533 15%, #459945 75%, #1ceb1c);
     text-align: center;
